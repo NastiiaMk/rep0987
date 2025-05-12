@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+header, footer {
+    text-align: center;
+    background-color: #f8f8f8;
+    padding: 10px 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.book {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+#cart {
+    margin-top: 20px;
+    border-top: 2px solid #000;
+    padding-top: 10px;
+}
